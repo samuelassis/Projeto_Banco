@@ -1,0 +1,16 @@
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/Bank.csprojAssemblyReference.cache
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/Bank.AssemblyInfoInputs.cache
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/Bank.AssemblyInfo.cs
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/Bank.csproj.CoreCompileInputs.cache
+/home/samuel/Projeto_Banco/Bank/bin/Debug/net5.0/Bank
+/home/samuel/Projeto_Banco/Bank/bin/Debug/net5.0/Bank.deps.json
+/home/samuel/Projeto_Banco/Bank/bin/Debug/net5.0/Bank.runtimeconfig.json
+/home/samuel/Projeto_Banco/Bank/bin/Debug/net5.0/Bank.runtimeconfig.dev.json
+/home/samuel/Projeto_Banco/Bank/bin/Debug/net5.0/Bank.dll
+/home/samuel/Projeto_Banco/Bank/bin/Debug/net5.0/ref/Bank.dll
+/home/samuel/Projeto_Banco/Bank/bin/Debug/net5.0/Bank.pdb
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/Bank.dll
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/ref/Bank.dll
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/Bank.pdb
+/home/samuel/Projeto_Banco/Bank/obj/Debug/net5.0/Bank.genruntimeconfig.cache
